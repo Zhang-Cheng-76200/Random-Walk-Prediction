@@ -1,2 +1,3 @@
 # Random-Walk-Prediction
-Random-Walk-Prediction
+This repository contains various files related to forecasting methodologies. Among them, FMNP.ipynb is the primary notebook associated with the paper titled "Fusion of Movement and Naive Predictions for Accurate Point Forecasting in Random Walks." 
+This notebook provides a detailed implementation of the FMNP method, including the data processing, and model evaluation. It is designed to showcase the practical application of the fusion technique discussed in the paper and guide readers through the steps involved in reproducing the results. Please refer to this file if you are specifically looking for the materials related to the fusion method and its real-world experiments.
